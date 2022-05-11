@@ -1,4 +1,1 @@
-
-# Demo 2
-
-create repo from local
+# Checking remote push to a repo
